@@ -88,7 +88,7 @@ NSString * const kPOPScrollViewContentOffset = @"scrollView.contentOffset";
 NSString * const kPOPScrollViewContentSize = @"scrollView.contentSize";
 NSString * const kPOPScrollViewZoomScale = @"scrollView.zoomScale";
 NSString * const kPOPScrollViewContentInset = @"scrollView.contentInset";
-NSString * const kPOPScrollViewScrollViewScrollIndicatorInsets = @"scrollView.scrollViewScrollIndicatorInsets";
+NSString * const kPOPScrollViewScrollIndicatorInsets = @"scrollView.scrollIndicatorInsets";
 
 // UITableView
 NSString * const kPOPTableViewContentOffset = kPOPScrollViewContentOffset;
